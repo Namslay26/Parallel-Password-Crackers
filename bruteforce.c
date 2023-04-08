@@ -2,7 +2,6 @@
  * Password Cracking using Brute Force Algorithm
  * We will be generating words, and checking them with the user input to see if it is correct 
  * Created on 22.03.2023
- * Code by Sneha Michelle V.
 */
 
 #include <stdio.h>
